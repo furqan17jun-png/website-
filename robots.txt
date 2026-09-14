@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prestige-cleaning-ottawa.furqan17jan.chatgpt.site/sitemap.xml
